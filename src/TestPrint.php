@@ -1,5 +1,5 @@
 <?php
-namespace wlzh\test;
+namespace wlzh\src;
 
 class TestPrint
 {
