@@ -9,10 +9,5 @@
             "email": "16843687@qq.com"
         }
     ],
-    "require": {},
-    "autoload": {
-         "prs-4": {
-              "wlzh\\src\\" : "wlzh/src/"
-         }
-    }
+    "require": {}
 }
